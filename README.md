@@ -45,5 +45,9 @@ Shark_comercial/
 ├── style.css
 └── README.md
 
-[Ver demonstração do projeto](https://leandroc-silva.github.io/Shark_comercial/)
-```
+## Visualização
+
+Acesse a versão publicada do projeto:
+
+[Ver demonstração do projeto]
+(https://leandroc-silva.github.io/Shark_comercial/)
