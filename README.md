@@ -40,6 +40,10 @@ Shark_comercial/
 ├── imagens/
 │   ├── logo.png
 │   ├── time.jpg
-│   └── parceiros
-├── proposta.html
-└── style.css
+│   └── ...
+├── index.html
+├── style.css
+└── README.md
+
+[Ver demonstração do projeto](https://leandroc-silva.github.io/Shark_comercial/)
+```
